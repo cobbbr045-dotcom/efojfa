@@ -1,0 +1,173 @@
+{
+  "settings": {
+    "storeName": "CLEVARA",
+    "tagline": "CLEANER. BRIGHTER. BETTER.",
+    "supportPhone": "+977 1 4545000",
+    "supportEmail": "concierge@clevara.com.np",
+    "currencySymbol": "रु.",
+    "defaultDeliveryFee": 0,
+    "freeDeliveryThreshold": 0,
+    "defaultLowStockThreshold": 5,
+    "passwordHash": "e05a268f747b5feb9f013b07809cc580e7fcbd297ca7330a3d41d4ba61c528545f697aac66e431233bbb26c756271dc094f9e226dfa4d795d8df96703ca9bd78",
+    "passwordSalt": "48578dfcaaaa6025d8680aefb51e015e",
+    "updatedAt": "2026-11-08T19:30:00.000Z"
+  },
+  "products": [
+    {
+      "id": "prod-clevara-multifunctional-squeegee",
+      "name": "CLEVARA Multifunctional Spray Squeegee Window Cleaner",
+      "slogan": "CLEANER. BRIGHTER. BETTER.",
+      "description": "The ultimate 3-in-1 glass cleaning innovation: built-in fine-mist atomizing spray nozzle, high-density microfiber scrubbing pad, and precision optical-grade streak-free silicone squeegee. Engineered for panoramic home windows, glass balconies, car windshields, shower doors, and mirrors.",
+      "longDescription": "Experience crystal-clear glass in seconds. CLEVARA's 3-stage cleaning system eliminates the need for separate spray bottles, rags, and squeegees. Simply fill the 250ml reservoir with water or cleansing solution, spray a fine mist, agitate stubborn dirt with the machine-washable microfiber pad, and swipe clean in one smooth stroke with the silicone squeegee blade.",
+      "images": [
+        "/src/assets/images/clevara_cleaner_blue_1794193742888.jpg",
+        "/src/assets/images/clevara_cleaner_white_1794193756650.jpg",
+        "/src/assets/images/clevara_cleaner_orange_1794193770204.jpg"
+      ],
+      "category": "Window & Glass Care",
+      "sku": "CLV-SQG-499",
+      "price": 499,
+      "discountedPrice": 499,
+      "stock": 30,
+      "lowStockThreshold": 5,
+      "variants": [
+        {
+          "id": "var-blue",
+          "color": "Blue",
+          "name": "Ocean Sky Blue",
+          "sku": "CLV-SQG-BLU",
+          "image": "/src/assets/images/clevara_cleaner_blue_1794193742888.jpg",
+          "stock": 10,
+          "hexColor": "#0284c7",
+          "isAvailable": true
+        },
+        {
+          "id": "var-white",
+          "color": "White",
+          "name": "Pure Arctic White",
+          "sku": "CLV-SQG-WHT",
+          "image": "/src/assets/images/clevara_cleaner_white_1794193756650.jpg",
+          "stock": 10,
+          "hexColor": "#f8fafc",
+          "isAvailable": true
+        },
+        {
+          "id": "var-orange",
+          "color": "Orange",
+          "name": "Vibrant Sunset Orange",
+          "sku": "CLV-SQG-ORG",
+          "image": "/src/assets/images/clevara_cleaner_orange_1794193770204.jpg",
+          "stock": 10,
+          "hexColor": "#ea580c",
+          "isAvailable": true
+        }
+      ],
+      "specifications": [
+        { "key": "Product Name", "value": "CLEVARA Multifunctional Spray Squeegee Window Cleaner" },
+        { "key": "Blade Material", "value": "High-Density Flexible Optical Silicone (Streak-Free)" },
+        { "key": "Spray Mechanism", "value": "Built-in Pressure Atomizer Pump with 250ml reservoir" },
+        { "key": "Microfiber Pad", "value": "Dual-weave Scrubbing Pad (Machine-Washable & Reusable)" },
+        { "key": "Applicable Surfaces", "value": "Panoramic Windows, Glass Balconies, Car Windshields, Mirrors, Shower Doors, Gloss Tiles" },
+        { "key": "Weight & Dimensions", "value": "220g Ergonomic Lightweight Handle (26cm blade width)" },
+        { "key": "Warranty & Support", "value": "100% Satisfaction Guarantee · Nepal Delivery Concierge" }
+      ],
+      "status": "published",
+      "isFeatured": true,
+      "isBestseller": true,
+      "restockStatus": "available",
+      "createdAt": "2026-11-08T00:00:00.000Z",
+      "updatedAt": "2026-11-08T00:00:00.000Z"
+    }
+  ],
+  "inventoryLogs": [
+    {
+      "id": "log-initial-blue",
+      "productId": "prod-clevara-multifunctional-squeegee",
+      "productName": "CLEVARA Multifunctional Spray Squeegee Window Cleaner (Blue)",
+      "previousStock": 0,
+      "newStock": 10,
+      "change": 10,
+      "reason": "restock",
+      "operator": "Initial Catalog Setup",
+      "createdAt": "2026-11-08T00:00:00.000Z"
+    },
+    {
+      "id": "log-initial-white",
+      "productId": "prod-clevara-multifunctional-squeegee",
+      "productName": "CLEVARA Multifunctional Spray Squeegee Window Cleaner (White)",
+      "previousStock": 0,
+      "newStock": 10,
+      "change": 10,
+      "reason": "restock",
+      "operator": "Initial Catalog Setup",
+      "createdAt": "2026-11-08T00:00:00.000Z"
+    },
+    {
+      "id": "log-initial-orange",
+      "productId": "prod-clevara-multifunctional-squeegee",
+      "productName": "CLEVARA Multifunctional Spray Squeegee Window Cleaner (Orange)",
+      "previousStock": 0,
+      "newStock": 10,
+      "change": 10,
+      "reason": "restock",
+      "operator": "Initial Catalog Setup",
+      "createdAt": "2026-11-08T00:00:00.000Z"
+    }
+  ],
+  "deals": [
+    {
+      "id": "deal-launch-nepal",
+      "title": "CLEVARA Official Launch Privilege — Free Nationwide Delivery",
+      "description": "Order today and receive 100% free delivery across all 7 Provinces of Nepal on your CLEVARA Spray Squeegee Window Cleaner.",
+      "bannerUrl": "/src/assets/images/deal_banner_nepal_1794115563679.jpg",
+      "productIds": ["prod-clevara-multifunctional-squeegee"],
+      "discountType": "fixed",
+      "discountValue": 0,
+      "startDate": "2026-11-01T00:00:00.000Z",
+      "endDate": "2026-12-31T23:59:59.000Z",
+      "couponCode": "FREEDELIVERY",
+      "timesRedeemed": 12,
+      "isActive": true,
+      "createdAt": "2026-11-08T00:00:00.000Z"
+    }
+  ],
+  "limitedOffers": [
+    {
+      "id": "offer-launch-price",
+      "title": "Introductory Launch Price — NPR 499 (Standard रु. 699)",
+      "productId": "prod-clevara-multifunctional-squeegee",
+      "specialPrice": 499,
+      "originalPrice": 699,
+      "totalOfferStock": 30,
+      "soldStock": 0,
+      "startTime": "2026-11-01T00:00:00.000Z",
+      "endTime": "2026-12-31T23:59:59.000Z",
+      "maxPerCustomer": 5,
+      "isActive": true,
+      "createdAt": "2026-11-08T00:00:00.000Z"
+    }
+  ],
+  "orders": [],
+  "restockSubscriptions": [],
+  "sessions": {},
+  "events": [
+    {
+      "id": "event-clevara-grand-opening",
+      "title": "CLEVARA Nepal Grand Opening Gala",
+      "description": "Join our official Nepal launch event celebrating pristine home living and crystal clarity. Check in to unlock an exclusive celebration voucher.",
+      "bannerImage": "/src/assets/images/deal_banner_nepal_1794115563679.jpg",
+      "code": "CLEVARA2026",
+      "congratulationMessage": "Congratulations! You have successfully unlocked VIP privileges for the CLEVARA Grand Opening. Enjoy an additional 10% privilege on your first order.",
+      "rewardTitle": "Grand Opening VIP Privilege Voucher",
+      "rewardCode": "VIPGALA10",
+      "rewardDiscountValue": 10,
+      "rewardDiscountType": "percentage",
+      "startDate": "2026-11-01T00:00:00.000Z",
+      "endDate": "2026-12-31T23:59:59.000Z",
+      "isActive": true,
+      "attendeesCount": 8,
+      "createdAt": "2026-11-08T00:00:00.000Z"
+    }
+  ],
+  "eventAttendees": []
+}

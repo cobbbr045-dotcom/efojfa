@@ -1,0 +1,6 @@
+{
+  "name": "CLEVARA — Premium E-Commerce Platform",
+  "description": "Nepal's premier luxury e-commerce platform featuring NPR pricing, real-time inventory tracking, seamless Nepalese delivery checkout, and a comprehensive owner management portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
